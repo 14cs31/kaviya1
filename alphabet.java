@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class JavaProgram
 {
 public static void main(String args[])
-charch;
+char ch;
 Scanner s=new Scanner(System.in);
 System.out.println("Enter a Character :");
 ch=scan.next().charAt(0);
